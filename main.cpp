@@ -115,7 +115,7 @@ baseballPlayer.hitHomeRun();
 baseballPlayer.runForGlory();
 
 //  8) 
-//  Noun: One Hot Momma
+//  Noun: one hot momma
 //  action 1: Seduces the men
 oneHotMomma.seduceTheMen();
 //  action 2: Inspires the women
