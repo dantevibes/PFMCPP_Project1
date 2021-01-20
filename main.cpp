@@ -115,22 +115,22 @@ baseballPlayer.hitHomeRun();
 baseballPlayer.runForGlory();
 
 //  8) 
-//  Noun: Hippy
-//  action 1: lights some incense
-hippy.lightIncense();
-//  action 2: bangs on a drum
-hippy.bangOnDrum();
-//  action 3: dances around a fire
-hippy.danceAroundFire(); 
+//  Noun: One Hot Momma
+//  action 1: Seduces the men
+oneHotMomma.seduceTheMen();
+//  action 2: Inspires the women
+oneHotMomma.inspireTheWomen();
+//  action 3: Handles the business.
+oneHotMomma.handleTheBusiness();
 
 //  9)
 //  Noun: Saxophonist
 //  action 1: plays beautiful melody
-Saxophonist.playBeautifulMelody();
+saxophonist.playBeautifulMelody();
 //  action 2: rips an awesome solo
-Saxophonist.ripAwesomeSolo();
+saxophonist.ripAwesomeSolo();
 //  action 3: cleans saxophone
-Saxophonist.cleanSaxophone();
+saxophonist.cleanSaxophone();
 
 //  10)
 //  Noun: Chef
