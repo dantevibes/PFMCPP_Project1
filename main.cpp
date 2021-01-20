@@ -52,86 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: hammer
+//  action 1: hammer hits a nail.
+hammer.hitNail();
+//  action 2: hammer pulls nail.
+hammer.pullNail();
+//  action 3: hammer breaks a PiggyBank
+hammer.breakPiggyBank();
 
-//  action 2:
+//  2) 
+//  Noun: seal
+//  action 1: the seal swims
+seal.swim();
+//  action 2: the seal flaps its flippers
+seal.flapFlippers();
+//  action 3: the seal catches fish
+seal.catchFish();
 
-//  action 3:
- 
-//  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: Bus Driver
+//  action 1: tells kids to quiet down
+busDriver.tellKidsToQuietDown();
+//  action 2: parks bus
+busDriver.parkBus();
+//  action 3: presses on the gas pedal
+busDriver.pressDownGasPedal();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: Pool Pump
+//  action 1: pumps water
+poolPump.pumpWater();
+//  action 2: makes a loud noise
+poolPump.makeLoudNoise();
+//  action 3: filters water
+poolPump.filterWater(); 
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: Muddy human
+//  action 1: turns on the shower
+muddyHuman.turnOnShower();
+//  action 2: tracks mud through the house
+muddyHuman.trackMudThroughHouse();
+//  action 3: put shampoo in hair
+muddyHuman.putShampooInHair(); 
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: BMX biker
+//  action 1: pedals fast
+bmxBiker.pedalFast();    
+//  action 2: bunny hops
+bmxBiker.bunnyHop();
+//  action 3: ditches bike
+bmxBiker.ditchBike();
 
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: Baseball player
+//  action 1: steps up to bat
+baseballPlayer.stepUpToBat();
+//  action 2: hits Home Run
+baseballPlayer.hitHomeRun();
+//  action 3: runs for glory
+baseballPlayer.runForGlory();
 
-//  action 2:
+//  8) 
+//  Noun: Hippy
+//  action 1: lights some incense
+hippy.lightIncense();
+//  action 2: bangs on a drum
+hippy.bangOnDrum();
+//  action 3: dances around a fire
+hippy.danceAroundFire(); 
 
-//  action 3:
- 
-//  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: Saxophonist
+//  action 1: plays beautiful melody
+Saxophonist.playBeautifulMelody();
+//  action 2: rips an awesome solo
+Saxophonist.ripAwesomeSolo();
+//  action 3: cleans saxophone
+Saxophonist.cleanSaxophone();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-
+//  Noun: Chef
+//  action 1: cooks food
+chef.cookFood();
+//  action 2: chops veggies
+chef.chopVeggies();
+//  action 3: serves meal personally
+chef.serveMealPersonally();
 
 #endif
 
